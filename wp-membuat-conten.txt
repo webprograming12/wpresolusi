@@ -7,6 +7,7 @@ membuat javascipt
   ^react
 membuat data dasar
 php frimework
+  ^laravel
 interview
   ^laravel
 vlogs
