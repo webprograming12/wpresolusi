@@ -3,7 +3,9 @@ rencana membuat conten
 membuat javascipt
 *ES6
 *frammework javascript
-membuat data dasar
+  ^angular
+  ^react
 php frimework
+  ^laravel
 interview
 vlogs
