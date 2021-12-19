@@ -4,6 +4,7 @@ membuat javascipt
 *ES6
 *frammework javascript
   ^veu
+  ^react
 membuat data dasar
 php frimework
 interview
