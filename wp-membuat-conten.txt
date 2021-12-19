@@ -3,9 +3,12 @@ rencana membuat conten
 membuat javascipt
 *ES6
 *frammework javascript
-  ^angular
+  ^veu
   ^react
+membuat data dasar
 php frimework
   ^laravel
 interview
+  ^laravel
 vlogs
+phyton
