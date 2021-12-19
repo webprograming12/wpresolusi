@@ -3,6 +3,7 @@ rencana membuat conten
 membuat javascipt
 *ES6
 *frammework javascript
+membuat data dasar
 php frimework
 interview
 vlogs
