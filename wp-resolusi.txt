@@ -2,5 +2,5 @@ wp resolusi
   -saya ingin konsisten membuat konten promosi 1x seminggu
   -membuat platfrom pengelolaan video
   -membuat forum diskusi
-  - membbuat mercshop
-    - colab dengan lebih banyak expert
+  -colab dengan lebih banyak expert
+  -membuat vlog
